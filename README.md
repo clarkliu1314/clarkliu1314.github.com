@@ -1,15 +1,6 @@
 <div align="center">
 <h1>vdoing-template</h1>
 
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/clarkliu1314)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/clarkliu1314/clarkliu1314.github.com)
-[![GitHub Issues](https://img.shields.io/github/issues/clarkliu1314/clarkliu1314.github.com.svg)](https://github.com/clarkliu1314/clarkliu1314.github.com/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/clarkliu1314/clarkliu1314.github.com)](https://github.com/clarkliu1314/clarkliu1314.github.com/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/clarkliu1314/clarkliu1314.github.com/stargazers)
-[![GitHub license](https://img.shields.io/github/license/clarkliu1314/clarkliu1314.github.com)](https://github.com/clarkliu1314/clarkliu1314.github.com/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/clarkliu1314/clarkliu1314.github.com.svg)](https://github.com/clarkliu1314/clarkliu1314.github.com)
-[![website https://clarkliu1314.github.com](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/vdoing-template.svg)](https://clarkliu1314.github.com/)
-
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
 
